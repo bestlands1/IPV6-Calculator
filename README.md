@@ -15,10 +15,10 @@ This program is a simple GUI application for validating and analyzing IPv6 addre
    ```shell
    pip install ipaddress
    ```
-3. Save the program code to a file with a `.py` extension (e.g., `ipv6_validator.py`).
+3. Save the program code to a file with a `.py` extension (e.g., `ipv6.py`).
 4. Run the program using the following command:
    ```shell
-   python ipv6_validator.py
+   python ipv6.py
    ```
 5. The program will open a GUI window titled "IPv6 Address Validator".
 6. Enter an IPv6 address in the provided text field.
