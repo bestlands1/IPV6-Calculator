@@ -43,6 +43,3 @@ This program is a simple GUI application for validating and analyzing IPv6 addre
 - The program categorizes addresses as multicast, unicast, or anycast based on predefined unicast address ranges.
 - The program uses the `tkinter` module for creating the graphical user interface.
 
-## License
-
-This program is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it as per the terms of the license.
